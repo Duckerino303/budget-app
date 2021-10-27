@@ -10,7 +10,7 @@ export class AppComponent {
   title = 'My budgeting app';
 
   accounts: Account[] = [
-    new Account("Millennium ROR", "", AccountTypes.Asset, 2800, true),
+    new Account("Millennium ROR II", "", AccountTypes.Asset, 2800, true),
     new Account("Millennium Savings", "", AccountTypes.Asset, 12000, true)
   ];
 
